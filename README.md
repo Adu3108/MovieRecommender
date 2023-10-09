@@ -4,6 +4,12 @@ This tool was developed as part of Tools for Data Science project in Seasons of 
 
 ---
 
+# Problem Statement
+
+The main focus of the movie recommendation system is to filter and predict movies which a user potentially would like to watch. We have employed Content-based Collaborative Filtering in conjuction with K-Nearest Neighbour algorithm to develop this recommendation system.
+
+---
+
 # References
 
 [Andrew Ng's course on ML](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&si=cAyqVudhU2u5iW0Z)
